@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styles: [`h1 { font-family: Lato; }`]
 })
 export class HelloComponent  {
- name='siema';
+ name='siemaa';
 }
